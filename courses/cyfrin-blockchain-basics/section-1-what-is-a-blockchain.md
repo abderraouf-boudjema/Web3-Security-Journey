@@ -14,7 +14,7 @@ Since code on a blockchain is public and usually cannot be changed after deploym
 
 ## What I didn't understand yet
 
-- (Write here anything that was unclear, for example how consensus works or why blocks are linked by hashes. Be honest, even small doubts count.)
+Everything is clear for now.
 
 ## Next step
 
