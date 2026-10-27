@@ -5,14 +5,18 @@ Track: [Blockchain Foundations](https://updraft.cyfrin.io/career-tracks/blockcha
 
 ## Why I'm taking this course
 
-This is the first step of my path to becoming a smart contract security
-researcher. Before I can find vulnerabilities, I need to understand how
-blockchains and smart contracts work at their foundation.
+This is the first step in my path toward becoming a smart contract security researcher. Before I can find vulnerabilities, I need to understand how blockchains and smart contracts work at their foundation.
 
 ## What I want to get out of it
 
-A clear understanding of how blockchains work, so that the later courses on
-Solidity and security make sense to me.
+A clear understanding of blockchain fundamentals so that later courses on Solidity and smart contract security make sense.
+
+## Goals for this track
+
+- Understand what a blockchain is and why it matters
+- Learn how transactions, blocks, and consensus work
+- Understand decentralization, trust assumptions, and incentives
+- Prepare for deeper Solidity and security topics later
 
 ## Progress
 
@@ -23,5 +27,12 @@ Solidity and security make sense to me.
 
 ## How I take notes
 
-After each section, I write what I learned in my own words, what I did not
-understand yet, and what I will do next.
+After each section, I write what I learned in my own words, what I still do not understand, and what I will do next.
+
+## Suggested study routine
+
+1. Read the section.
+2. Summarize the key concepts.
+3. Note the parts that are unclear.
+4. Write the takeaway in a reusable way.
+5. Review the summary before moving to the next section.

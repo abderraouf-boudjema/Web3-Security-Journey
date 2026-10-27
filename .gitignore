@@ -1,0 +1,26 @@
+# .gitignore
+
+# General
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Foundry / Solidity
+cache/
+out/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+coverage/
+coverage.json
