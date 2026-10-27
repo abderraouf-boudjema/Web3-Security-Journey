@@ -5,7 +5,7 @@ I document everything here: what I learn, what I break, and how it can be fixed.
 
 ## About
 
-Hi, I'm Abderraouf, a physics student from Algeria. I am learning smart contract
+Hi, I'm Abd Erraouf, a physics student from Algeria. I am learning smart contract
 security in public, one challenge at a time, so that my progress can be seen
 and checked by anyone.
 
