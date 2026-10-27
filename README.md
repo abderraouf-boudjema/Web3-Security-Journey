@@ -43,3 +43,8 @@ and bug bounties.
 
 You are welcome to open an issue or leave feedback. I am still learning and
 glad for any correction.
+You are welcome to open an issue or leave feedback. I am still learning and glad for any corrections.
+
+    Email: aboudjema@proton.me
+
+    GitHub: @abderraouf-boudjema
