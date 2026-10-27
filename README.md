@@ -6,18 +6,26 @@ I document everything here: what I learn, what I break, and how it can be fixed.
 ## About
 
 Hi, I'm Abd Erraouf, a physics student from Algeria. I am learning smart contract
-security in public, one challenge at a time, so that my progress can be seen
+security in public, one step at a time, so that my progress can be seen
 and checked by anyone.
 
 ## How this repository is organized
 
-Each challenge or audit report gets its own folder. Inside it, a short README
-explains the vulnerability and a code file holds my proof of concept (PoC).
+Each course I study gets its own folder inside `courses`, with one note per
+section. Each challenge or audit report gets its own folder, with a short README
+explaining the vulnerability and a code file holding my proof of concept (PoC).
 
+    /courses     Notes from each course I study, one folder per course
     /ethernaut     CTF write-ups
     /damn-vulnerable-defi     DeFi challenge write-ups
     /audit-reports     Notes from reading public audit reports
     /weekly-notes     What I learned each week
+
+## Courses
+
+| Course | Platform | Status |
+|--------|----------|--------|
+| [Blockchain Basics](courses/cyfrin-blockchain-basics) | Cyfrin Updraft | In progress (Section 1 done) |
 
 ## Write-up format
 
@@ -28,7 +36,7 @@ vulnerability is, how I exploited it, and how it should be fixed.
 
 | Week | What I studied | Challenges solved |
 |------|----------------|-------------------|
-| 1    | Solidity basics, Foundry setup | - |
+| 1    | Blockchain Basics (Section 1) | - |
 
 ## Tools
 
@@ -42,9 +50,7 @@ and bug bounties.
 ## Contact
 
 You are welcome to open an issue or leave feedback. I am still learning and
-glad for any correction.
-You are welcome to open an issue or leave feedback. I am still learning and glad for any corrections.
+glad for any corrections.
 
-    Email: aboudjema@proton.me
-
-    GitHub: @abderraouf-boudjema
+- Email: aboudjema@proton.me
+- GitHub: [@abderraouf-boudjema](https://github.com/abderraouf-boudjema)
